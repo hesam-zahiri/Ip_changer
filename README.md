@@ -10,6 +10,10 @@ $ pip install requests
 
 # How to use:
 
+cd Ip_changer
+
+python3 ip_changer.py
+
 
 - Enter the Proxy IP
 
