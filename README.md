@@ -1,5 +1,3 @@
-# Ip_changer
-
 # Attention‼️
 
 Some services may use their own methods to identify your true identity.
